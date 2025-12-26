@@ -36,4 +36,4 @@ One of the biggest takeaways for me was understanding how small indentation or l
 3. Run the script from the project folder:
 
 ```bash
-python tunnel_game.py
+Tunnels and Dragons.py
